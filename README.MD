@@ -1,5 +1,5 @@
 # MSP-LLM: A Unified Large Language Model Framework for Complete Material Synthesis Planning
-The offical source code for MSP-LLM: A Unified Large Language Model Framework for Complete Material Synthesis Planning.
+The official source code for MSP-LLM: A Unified Large Language Model Framework for Complete Material Synthesis Planning.
  
  
 ## Overview
