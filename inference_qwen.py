@@ -25,7 +25,7 @@ bnb_config = BitsAndBytesConfig(
 )
 
 tok = AutoTokenizer.from_pretrained(
-    ADAPTER_DIR,
+    MODEL_NAME,
     trust_remote_code=True,  
     use_fast=True,
 )
